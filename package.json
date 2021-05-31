@@ -1,0 +1,17 @@
+{
+  "name": "seeder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql-db-seed": "0.0.4"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
